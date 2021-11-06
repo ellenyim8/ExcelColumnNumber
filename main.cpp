@@ -21,6 +21,9 @@ int main()
     cout << getColumnNumber("XFE") << endl; 
     cout << "Expected: 16385." << endl; 
 
+    cout << getColumnNumber("Z") << endl;
+    cout << "Expected: 26." << endl;
+
     return 0;
 }
 
